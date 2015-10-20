@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">McDolands</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_drink_category">Drinks</string>
+    <string name="title_activity_drinks">The McDoland Drink</string>
+    <string name="drink">Drinks</string>
+    <string name="name">McDolands</string>
+</resources>
