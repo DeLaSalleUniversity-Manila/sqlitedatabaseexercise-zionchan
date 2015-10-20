@@ -22,7 +22,7 @@ public class DrinksActivity extends AppCompatActivity {
         setContentView(R.layout.activity_drinks);
 //Get the drink from the intent
         int drinkNo;
-        drinkNo = (Integer) getIntent().getExtras().get(EXTRA_DRINKNO);
+        drinkNo = (Integer)getIntent().getExtras().get(EXTRA_DRINKNO);
 //Create a cursor
         try {
             SQLiteOpenHelper mcdolandDatabaseHelper = new McDolandDatabaseHelper(this);
